@@ -4,7 +4,9 @@ FirekampExercise
 
 ## How to Run
 
-Check src/constants/index.ts file and add your key to OPEN_WEATHER_MAP_API_KEY
+Check src/constants/index.ts file and add your key into `OPEN_WEATHER_MAP_API_KEY`
+
+Register and get your key here: https://home.openweathermap.org/api_keys
 
 ```js
 const OPEN_WEATHER_MAP_API_KEY = 'PUT_YOUR_KEY_HERE';
