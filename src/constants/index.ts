@@ -1,0 +1,5 @@
+const OPEN_WEATHER_MAP_API_KEY = 'f513209bdb0890ce3722a8b63edbb556';
+
+export default {
+  OPEN_WEATHER_MAP_API_KEY,
+};
