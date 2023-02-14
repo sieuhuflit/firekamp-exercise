@@ -46,9 +46,9 @@ yarn android
 
 Include a screenshot or gif of your project here.
 
-<img src="./demo/demo.gif" width="200" height="400" />
-<img src="./demo/image_1.png" width="200" height="400"/>
-<img src="./demo/image_2.png" width="200" height="400" />
+<img src="./demo/demo.gif" width="300" height="600" />
+<img src="./demo/image_1.png" width="300" height="600"/>
+<img src="./demo/image_2.png" width="300" height="600" />
 
 ## What you would do if you had more time
 
