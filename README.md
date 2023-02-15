@@ -56,13 +56,19 @@ Include a screenshot or gif of your project here.
 
 If you had more time to work on this project, Here are additional features or improvements you would add.
 
-- [ ] Provide city suggestion when typing
-- [ ] Check device current location position and set as default initial value instead of hard code position
+### Additional features
+
+- [ ] Improve UI/UX for city input, to make it's look like an input
+  - Provide debouncing search city when user typing
+- [ ] Check device current location position and set as default initial value instead of hard code position (Ho Chi Minh city)
+- [ ] Detect weather information and show exactly background image similar to target weather (Sunny, Raining, Clouds ...etc...)
 - [ ] Randomize background image
-- [ ] Detect weather and show background image match with weather description
-- [ ] Able to select hourly to fetch more additional info (Wind, humidity, visibility ...etc...)
-- [ ] Display more aditional info when in UI next 7 days
+- [ ] Able to select hourly to show more additional info (Wind, humidity, visibility ...etc...)
+- [ ] Display more aditional info when in UI next 7 days (Wind, humidity, visibility ...etc...)
 - [ ] Add some city as favorite city and showed it's on home screen
+
+### Improvements
+
 - [ ] Add animation
 - [ ] Configure environment variables using react-native-config instead of hard code
 - [ ] Improve UI/UX for error case
